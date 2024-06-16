@@ -1,5 +1,7 @@
 ///<reference types ="cypress"/>
 
+// Always add .gitignore before doing coding
+
 // humesha cy.js file and feature file ka name same rakhna nai to error dega
 // given when then and ke statement bhi copy paste karna thoda space ya capital ka bhi issue hua to error aayega
 // feature file se humne given and when same he liya usse to dono scenario me given and when ka statement exactly same rakhna

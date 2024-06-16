@@ -23,3 +23,9 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('loginLamTes',(userEm,passwo)=>{
+    cy.get('#input-email').type(userEm)
+    cy.get('#input-password').type(passwo)
+    cy.get('[value="Login"]').click()
+})
