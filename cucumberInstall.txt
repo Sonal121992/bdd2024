@@ -57,3 +57,6 @@ just after paste change the forward slash \ to backward slash /
                     then LoginTest.cy.js inside Tests
 
 16. Create the feature file inside tests folder
+
+17. 
+// Test folder and feature file name should be same inside file name dosen't matter

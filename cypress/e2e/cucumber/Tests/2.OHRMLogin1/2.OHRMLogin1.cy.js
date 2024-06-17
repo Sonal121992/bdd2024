@@ -1,5 +1,8 @@
 ///<reference types = "cypress"/>
 
+// Test folder and feature file name should be same inside file name dosen't matter
+
+
 import {Given, When, Then, And} from "cypress-cucumber-preprocessor/steps"
 
 Given("Navigate to OHRM login webpage valid",()=>{

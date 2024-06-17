@@ -1,0 +1,40 @@
+export default [ {
+    username : "sonal",
+    email : `sonalk${Math.floor(Math.random()*10000)}@gamil.com`,
+    title : 'Mrs',
+    password : 'sonal',
+    dd : 12,
+    mm : 'September',
+    yy : "1992",
+    firstname : 'sonal',
+    lastname : 'khante',
+    company : 'Accenture',
+    address1 : 'Rourkela1',
+    address2 : 'Rourkela2',
+    country : 'India',
+    state : 'Odissa',
+    city : 'Sundargarh',
+    zipcode : 769004,
+    mobno : 8668280134
+},
+
+{
+    username : "chetan",
+    email : `chetank${Math.floor(Math.random()*10000)}@gamil.com`,
+    title : 'Mr',
+    password : 'chetan',
+    dd : 7,
+    mm : 'December',
+    yy : "1989",
+    firstname : 'Chetan',
+    lastname : 'Khante',
+    company : 'SAIL',
+    address1 : 'Rourkela1',
+    address2 : 'Rourkela2',
+    country : 'India',
+    state : 'Odissa',
+    city : 'Sundargarh',
+    zipcode : 769004,
+    mobno : 7020474618
+}
+]
