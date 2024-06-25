@@ -3,6 +3,7 @@ import { Given, When, And, Then } from "cypress-cucumber-preprocessor/steps"
 import page from "../../Pages/8.AutoExercise"
 import user from "../../../../fixtures/8.AutomationExercisePayload"
 
+// This is step definition file
 let pg = new page
 let currentUser;
 let title;
